@@ -1,0 +1,13 @@
+{
+  "name": "novaplay-independent-platform",
+  "version": "4.0.0",
+  "private": true,
+  "description": "NovaPlay independent gaming platform with 100 original concepts and custom artwork",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
